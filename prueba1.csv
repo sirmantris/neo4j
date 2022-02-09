@@ -1,7 +1,7 @@
-BRAND, ARTICLE
-brand1, article1
-brand1, article2
-brand1, article3
-brand2, article1
-brand2, article2
-brand3, article1
+id, BRAND, ARTICLE
+1, brand1, article1
+2, brand1, article2
+3, brand1, article3
+4, brand2, article1
+5, brand2, article2
+6, brand3, article1
